@@ -1,0 +1,22 @@
+RichText(
+                    text: TextSpan(
+                      children: [
+                        TextSpan(
+                          text: 'ViGe', // Teks pertama
+                          style: TextStyle(
+                            color: kBlueColor, // Warna teks pertama
+                            fontSize: 35, // Ukuran teks
+                            fontWeight: FontWeight.bold, // Ketebalan teks
+                          ),
+                        ),
+                        TextSpan(
+                          text: 'Nesia', // Teks kedua
+                          style: TextStyle(
+                            color: kYellowColor, // Warna teks kedua
+                            fontSize: 35, // Ukuran teks
+                            fontWeight: FontWeight.bold, // Ketebalan teks
+                          ),
+                        ),
+                      ],
+                    ),
+                  ),
